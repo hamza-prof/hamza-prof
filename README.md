@@ -1,4 +1,4 @@
-### Hola, I am Hamza Qureshi 👋
+### Hola, This is Hamza Qureshi 👋
 
 - 🔭 I’m currently working on Fiver and Upwork.
 - 🌱 I’m currently learning html&CSS.
