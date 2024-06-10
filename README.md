@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>
-<h3 align="center">A passionate AI Engineer & Blockchain Developer from Pakistan.</h3>
+<h3 align="center">A passionate Data Scientist | Data Analyst | ML & AI Engineer from Pakistan.</h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently doing BSCS (Specialization in AI) **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**.
