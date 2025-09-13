@@ -24,7 +24,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   
   <p style="font-size: 16px; color: #7C3AED;">
-    <strong>🎯 Currently:</strong> Developing AI-powered automation tools & chatbots at Autonomous<br>
+    <strong>🎯 Currently:</strong> Developing AI-powered automation tools & chatbots<br>
     <strong>🌱 Learning:</strong> Advanced Deep Learning, LangGraph, and Next-Gen AI Systems<br>
     <strong>💼 Open to:</strong> Exciting AI/ML opportunities and innovative collaborations
   </p>
@@ -40,7 +40,7 @@
 
 🎓 **Computer Science Student** specializing in AI at [Sukkur IBA University](https://www.iba-suk.edu.pk/) (2021-2025)
 
-🤖 **Currently Working** as AI/ML Engineer at Sofstica, developing cutting-edge automation tools and medical AI systems
+🤖 **Worked** as AI/ML Engineer at Sofstica, developing cutting-edge automation tools and medical AI systems
 
 🔬 **Research Focus**: Deep Learning, Natural Language Processing, Computer Vision, and Mobile App Development
 
@@ -48,14 +48,7 @@
 
 ## 💼 Professional Experience
 
-### 🔥 Current Role: Data and AI Engineer at Autonomous
-*Current Position*
-- 🤖 Building next-generation AI solutions and data-driven systems
-- 🚀 Developing cutting-edge machine learning models and AI applications
-- 📊 Working with large-scale data processing and analytics
-- 🧠 Contributing to autonomous systems and intelligent automation
-
-### 🎯 Previous Experience: AI/ML Engineer at Sofstica
+### 🎯 Recent Experience: AI/ML Engineer at Sofstica
 *March 2025 - August 2025*
 - 🚀 Developed QA Automation tool using **Groq API** and **LangChain agents**
 - 🎯 Built **LangChain execution agents** with Playwright for automated browser testing
