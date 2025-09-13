@@ -1,60 +1,166 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamza</h1>
-<h3 align="center">A passionate Data Scientist | Data Analyst | ML & AI Engineer from Pakistan.</h3>
+# Hi there! 👋 I'm Muhammad Hamza
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently doing BSCS (Specialization in AI) **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**.
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Hamza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Data%20Scientist&descSize=18&descAlignY=51"/>
+</div>
 
-- 🌱 I’m currently learning **Python, Data Structure & Algorithms**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+AI/ML+Engineer+%26+Researcher;📱+Flutter+Developer+%26+Mobile+Expert;📊+Data+Scientist+%26+Analytics+Specialist;🧠+Deep+Learning+%26+Computer+Vision;🔬+LangChain+%26+RAG+Systems+Developer;🚀+Innovation+Driven+Problem+Solver&font=Fira%20Code&center=true&width=800&height=80&duration=3500&pause=800&size=22&color=58A6FF" alt="Typing Animation">
+</div>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/hamza-prof).
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Analysis and Java**.
+<div align="center">
+  <h2 style="color: #58A6FF; margin: 20px 0;">
+    🌟 <strong>Passionate AI/ML Engineer & Flutter Developer from Pakistan</strong> 🇵🇰 🌟
+  </h2>
+  <p style="font-size: 18px; margin: 15px 0;">
+    <em>🚀 Transforming ideas into intelligent solutions through cutting-edge AI technology</em><br>
+    <em>💡 Building the future, one algorithm at a time</em>
+  </p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  <p style="font-size: 16px; color: #7C3AED;">
+    <strong>🎯 Currently:</strong> Developing AI-powered automation tools & chatbots at Autonomous<br>
+    <strong>🌱 Learning:</strong> Advanced Deep Learning, LangGraph, and Next-Gen AI Systems<br>
+    <strong>💼 Open to:</strong> Exciting AI/ML opportunities and innovative collaborations
+  </p>
+</div>
 
-- ⚡ Fun fact **Critical thinker**.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+</div>
 
+---
 
+## 🚀 About Me
 
-## 🚀 Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+🎓 **Computer Science Student** specializing in AI at [Sukkur IBA University](https://www.iba-suk.edu.pk/) (2021-2025)
 
-<p align="center">
-    <a href="https://github.com/hamza-prof/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hamza's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-prof&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+🤖 **Currently Working** as AI/ML Engineer at Sofstica, developing cutting-edge automation tools and medical AI systems
 
+🔬 **Research Focus**: Deep Learning, Natural Language Processing, Computer Vision, and Mobile App Development
 
-## 📊 My Github Stats
+💡 **Mission**: Building AI-powered solutions that make a real-world impact
 
-  <br/>
-    <a href="https://github.com/hamza-prof/github-readme-stats"><img alt="Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamza-prof&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hamza-prof/github-readme-stats"><img alt="Hamza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-prof&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 💼 Professional Experience
 
+### 🔥 Current Role: Data and AI Engineer at Autonomous
+*Current Position*
+- 🤖 Building next-generation AI solutions and data-driven systems
+- 🚀 Developing cutting-edge machine learning models and AI applications
+- 📊 Working with large-scale data processing and analytics
+- 🧠 Contributing to autonomous systems and intelligent automation
 
-<br/>
-<br/>
+### 🎯 Previous Experience: AI/ML Engineer at Sofstica
+*March 2025 - August 2025*
+- 🚀 Developed QA Automation tool using **Groq API** and **LangChain agents**
+- 🎯 Built **LangChain execution agents** with Playwright for automated browser testing
+- 🏥 Core contributor to **RRS AI medical chatbot** for hospital management systems
+- 🧠 Implemented **RAG (Retrieval-Augmented Generation)** for medical information retrieval
+- 📱 Flutter development using **MVVM architecture** with Stacked package
 
-<a href="https://github.com/hamza-prof/github-readme-activity-graph"><img alt="Hamza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamza-prof&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### 📊 Previous Experience
+- **Data Scientist Intern** at Digitenic (June - August 2024)
+- **AI Trainer & Coder** at Scale AI (February 2023 - January 2024)
 
-<br/>
-<br/>
+## 🏆 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@yaar_hamzey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yaar_hamzey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza-qureshi-03587a210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-qureshi-03587a210" height="30" width="40" /></a>
-<a href="https://fb.com/hamzaqureshi7873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamzaqureshi7873" height="30" width="40" /></a>
-<a href="https://instagram.com/is_hamza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="is_hamza_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hamzaqureshi2937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hamzaqureshi2937" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hamzey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzey" height="30" width="40" /></a>
-</p>
+### 🔫 Real-Time ATM Weapon Detection System
+**Final Year Project** | *AI-Powered Security Solution*
+- **Tech Stack**: YOLOv8, React.js, Express.js, MongoDB
+- **Achievement**: 92% accuracy in weapon detection
+- **Impact**: Enhancing public safety at ATM locations
+- 🎯 Real-time CCTV monitoring with instant alert system
 
-## ❤ Views and Followers
+### 💳 IEEE-CIS Fraud Detection System
+**Machine Learning Excellence**
+- **Performance**: 98% ROC score using LightGBM
+- **Skills**: Feature engineering, data preprocessing, model optimization
+- 🏆 Semester project showcasing advanced ML techniques
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=hamza-prof">
-</a>
-<a href="https://github.com/hamza-prof?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+### 📊 YouTube Sentiment Analysis
+**Real-Time NLP Application**
+- **Features**: Live comment extraction, sentiment classification, trend visualization
+- **Tech**: Custom NLP model, React.js frontend, Matplotlib visualizations
+- 🔍 Real-time audience insights and sentiment tracking
+
+## 🛠️ Technical Arsenal
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+
+### Specialized AI Tools
+- **LangChain & LangGraph** - Advanced AI agent development
+- **RAG Systems** - Retrieval-Augmented Generation
+- **YOLO** - Real-time object detection
+- **OpenAI & Groq APIs** - LLM integration
+- **Prompt Engineering** - Optimized AI interactions
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- **MVVM Architecture** with Stacked package
+- **State Management** (Provider, GetIt, Repository Pattern)
+- **Google Maps Integration**
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza-prof&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-prof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-prof&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-prof&theme=tokyonight" alt="GitHub Profile Summary"/>
+</div>
+
+## 🎓 Certifications & Learning
+
+- 📊 **Data Science Bootcamp** - FAST NUCES Karachi (June - September 2024)
+- 🧠 **Continuous Learning**: Advanced Deep Learning, Computer Vision, NLP
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-qureshi-03587a210)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@yaar_hamzey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/is_hamza_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hamzaqureshi7873)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@hamzaqureshi2937)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hamzey)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhamza2937@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamza-prof&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/hamza-prof?label=Followers&style=for-the-badge&color=blue"/>
+</div>
+
+<div align="center">
+  <i>⭐️ From [hamza-prof](https://github.com/hamza-prof) - "Turning coffee into code, and code into intelligent solutions" ☕</i>
+</div>
