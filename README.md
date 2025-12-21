@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Hamza
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Hamza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Data%20%26%20AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Full-Stack%20AI%20Developer&descSize=18&descAlignY=51"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Hamza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Data%20Scientist&descSize=18&descAlignY=51"/>
 </div>
 
 <div align="center">
