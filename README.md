@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+%26+AI+Engineer;🤖+LangChain+%26+RAG+Systems+Architect;📊+Growth+Data+Scientist+%26+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+%26+Automation+Engineer;📱+Flutter+Developer+%26+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+and+AI+Engineer;🤖+LangChain+and+RAG+Systems+Architect;📊+Growth+Data+Scientist+and+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+and+Automation+Engineer;📱+Flutter+Developer+and+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
 </div>
 
 <div align="center">
