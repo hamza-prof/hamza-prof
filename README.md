@@ -1,4 +1,4 @@
-# Hi there! <img src="assets/me.svg" width="30" vertical-align="middle"> I'm Muhammad Hamza
+# Hi there! <img src="assets/me.svg" width="80" vertical-align="middle"> I'm Muhammad Hamza
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Hamza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Flutter%20Developer&descSize=18&descAlignY=51"/>
