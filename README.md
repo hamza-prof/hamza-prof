@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="./assets/pacman-typewriter.svg" alt="Pac-Man Typing Animation" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+and+AI+Engineer;🤖+LangChain+and+RAG+Systems+Architect;📊+Growth+Data+Scientist+and+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+and+Automation+Engineer;📱+Flutter+Developer+and+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Dancing%20Script&center=true&width=900&height=80&duration=3000&pause=1000&size=26&color=58a6ff" alt="Typing Animation">
 </div>
+
+<div style="font-family: 'Dancing Script', cursive;">
 
 <br>
 
@@ -350,4 +352,5 @@
 
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/hamza-prof">hamza-prof</a> — Passionate about AI, ML, and solving real-world problems</sub>
+</div>
 </div>
