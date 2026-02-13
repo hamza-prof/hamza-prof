@@ -25,7 +25,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
 
 <div align="center">
-  <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="80%"/>
+  <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="100%"/>
 </div>
 
 <div align="center">
@@ -217,13 +217,6 @@
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza-prof&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-prof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8"/>
-</div>
-
-<br>
 
 <!-- ═══════════════ 🔥 STREAK STATS ═══════════════════════ -->
 
