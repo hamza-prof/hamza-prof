@@ -8,47 +8,65 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+and+AI+Engineer;🤖+LangChain+and+RAG+Systems+Architect;📊+Growth+Data+Scientist+and+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+and+Automation+Engineer;📱+Flutter+Developer+and+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
 </div>
 
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
 </div>
+
+<br>
+
+<!-- ═══════════════════ TERMINAL INTRO ═══════════════════════ -->
+
+<div align="center">
+  <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="650"/>
+</div>
+
+<br>
 
 <div align="center">
   <h2>
     🌟 <strong>Transforming Data into Intelligence | Building AI Systems that Scale</strong> 🌟
   </h2>
-  <p style="font-size: 18px; margin: 15px 0;">
-    <em>🎯 Currently: Building end-to-end AI solutions as an <strong>Autonomous Data & AI Engineer</strong></em><br>
-    <em>💼 Working with multiple clients on ML pipelines, agent systems, and growth analytics</em><br>
-    <em>🚀 Specialized in LangChain agents, RAG systems, and production-grade ML deployment</em>
-  </p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-  <p style="font-size: 16px;">
-    📍 <strong>Location:</strong> Pakistan 🇵🇰 | <strong>Open to:</strong> Remote opportunities globally 🌍<br>
-    🎓 <strong>Education:</strong> BS Computer Science @ IBA Sukkur (2021-2025)<br>
-    💬 <strong>Ask me about:</strong> LangChain, RAG, ML Pipelines, ETL, Growth Analytics, Flutter
+  <p>
+    <img src="https://img.shields.io/badge/🎯_Currently-Autonomous_Data_&_AI_Engineer-667eea?style=for-the-badge&labelColor=0d1117" alt="Current Role"/>
+    <img src="https://img.shields.io/badge/📍_Based_in-Pakistan_🇵🇰-764ba2?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+    <img src="https://img.shields.io/badge/🎓_BS_CS-IBA_Sukkur_(2021--2025)-f093fb?style=for-the-badge&labelColor=0d1117" alt="Education"/>
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-## 🚀 What I Do
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════════ WHAT I DO ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/> 
 
 I'm a **Data & AI Engineer** who builds intelligent systems that solve real-world problems. My expertise spans:
 
-- 🔄 **End-to-End ML Pipelines** - From data ingestion to model deployment
-- 🤖 **AI Agent Development** - LangChain, LangGraph, autonomous systems
-- 🔍 **RAG Systems** - Building context-aware AI applications
-- 📊 **Growth Analytics** - Data-driven decision making & experimentation
-- 🎯 **ML Model Optimization** - Fine-tuning for production accuracy
-- 📱 **Full-Stack Development** - React, Express, Flutter, and more
+- 🔄 **End-to-End ML Pipelines** — From data ingestion to model deployment
+- 🤖 **AI Agent Development** — LangChain, LangGraph, autonomous systems
+- 🔍 **RAG Systems** — Building context-aware AI applications
+- 📊 **Growth Analytics** — Data-driven decision making & experimentation
+- 🎯 **ML Model Optimization** — Fine-tuning for production accuracy
+- 📱 **Full-Stack Development** — React, Express, Flutter, and more
 
-**Current Mission**: Delivering production-ready AI solutions that drive measurable business impact.
+> *💡 **Current Mission**: Delivering production-ready AI solutions that drive measurable business impact.*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br clear="both">
+
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════════ PROFESSIONAL JOURNEY ═══════════════ -->
 
 ## 💼 Professional Journey
 
@@ -119,20 +137,20 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 ## 🏆 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-840a-0ce7fd1e8dc1.gif" width="200"/>
-</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔫 **Real-Time ATM Weapon Detection**
-**Final Year Project - AI-Powered Security**
+**Final Year Project — AI-Powered Security**
 
 <img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge" alt="Accuracy"/>
 
@@ -141,7 +159,7 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
 - Implemented **live video streaming** and **instant alerts**
 - **Impact**: Enhancing public safety at ATM locations
 
-**Tech Stack**: YOLOv8, React.js, Express.js, MongoDB, OpenCV, WebSocket
+`YOLOv8` `React.js` `Express.js` `MongoDB` `OpenCV` `WebSocket`
 
 </td>
 <td width="50%" valign="top">
@@ -156,7 +174,7 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
 - **Cross-validation** and hyperparameter tuning
 - **Impact**: Detecting fraudulent transactions at scale
 
-**Tech Stack**: Python, LightGBM, Scikit-learn, Pandas, SMOTE
+`Python` `LightGBM` `Scikit-learn` `Pandas` `SMOTE`
 
 </td>
 </tr>
@@ -171,13 +189,17 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
 - Integrated into **React.js interface** with sentiment visualizations
 - **Impact**: Real-time audience insights for content creators
 
-**Tech Stack**: Python, NLP, NLTK, React.js, YouTube API, Matplotlib
+`Python` `NLP` `NLTK` `React.js` `YouTube API` `Matplotlib`
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════════ TECHNICAL ARSENAL ═══════════════════ -->
 
 ## 🛠️ Technical Arsenal
 
@@ -223,41 +245,73 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
 </div>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-840a-0ce7fd1e8dc1.gif" width="200"/>
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza-prof&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-prof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8"/>
 </div>
 
+<br>
+
+<!-- ═══════════════ 🔥 STREAK STATS ═══════════════════════ -->
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-prof&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=F85D7F&currStreakNum=F85D7F&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak Stats"/>
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-prof&theme=tokyo-night&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════ 🎮 CONTRIBUTION SHOWCASE ══════════════ -->
+
+## 🎮 Contribution Showcase
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-prof/hamza-prof/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-prof/hamza-prof/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/hamza-prof/hamza-prof/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════ CERTIFICATIONS ══════════════════════════ -->
 
 ## 🎓 Certifications & Learning
 
-- 📊 **Data Science Bootcamp** - FAST NUCES Karachi (Jun - Sep 2023)
-- 🧠 **Continuous Learning**: Advanced Deep Learning, LangGraph, RAG Systems, Growth Analytics
-- 🚀 **Always exploring**: Latest AI/ML trends and cutting-edge technologies
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| 📜 | Certification | Details |
+|---|---|---|
+| 📊 | **Data Science Bootcamp** | FAST NUCES Karachi (Jun–Sep 2023) |
+| 🧠 | **Continuous Learning** | Advanced Deep Learning, LangGraph, RAG Systems, Growth Analytics |
+| 🚀 | **Always Exploring** | Latest AI/ML trends and cutting-edge technologies |
+
+</div>
+
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════ CONNECT ═════════════════════════════════ -->
 
 ## 🌐 Let's Connect!
 
@@ -265,7 +319,7 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
   
 ### 💼 Professional Network
 
-<a href="https://linkedin.com/in/muhammad-hamza](https://www.linkedin.com/in/muhammad-hamza-data-scientist/">
+<a href="https://www.linkedin.com/in/muhammad-hamza-data-scientist/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:m.hamza.aieng@gmail.com">
@@ -289,7 +343,11 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
+<!-- ═══════════════ PROFILE STATS ═══════════════════════════ -->
 
 ## 📊 Profile Stats
 
@@ -300,18 +358,14 @@ I'm a **Data & AI Engineer** who builds intelligent systems that solve real-worl
   <img src="https://img.shields.io/badge/Available%20for-Freelance-orange?style=for-the-badge"/>
 </div>
 
+<br>
+
+<!-- ═══════════════ FOOTER ══════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <img src="./assets/footer.svg" alt="Footer" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <br>
-  <h3>💡 "Building intelligent systems that turn data into decisions"</h3>
-  <p><i>⭐️ From <a href="https://github.com/hamza-prof">hamza-prof</a> - Passionate about AI, ML, and solving real-world problems</i></p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  <sub>⭐️ From <a href="https://github.com/hamza-prof">hamza-prof</a> — Passionate about AI, ML, and solving real-world problems</sub>
 </div>
