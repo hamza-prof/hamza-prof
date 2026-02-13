@@ -36,72 +36,10 @@
 
 ## 💼 Professional Journey
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img width="100%" src="assets/terminal-experience.svg" alt="Professional Experience Terminal"/>
+</div>
 
-### 🌟 **Autonomous Data & AI Engineer**
-**Oct 2025 - Present**
-
-#### 🧪 **Data Scientist @ Sene**
-- Built **end-to-end ETL pipelines** for structured/unstructured data
-- Performed **EDA** and **fine-tuned ML models** to achieve target accuracy
-- Developed **predictive analytics models** for automated decision-making
-- **Tech**: Python, Scikit-learn, Pandas, AWS (S3, Lambda, Redshift)
-
-#### 📈 **Growth Data Scientist @ Memox.io**
-- Designed **A/B tests** and evaluated marketing performance
-- Implemented **funnel tracking** and conversion optimization
-- Built **automated email agents** using LangChain
-- Conducted **prompt engineering** for multiple clients
-- **Tech**: Python, LangChain, PostHog, BigQuery, Looker Studio
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 **AI/ML Engineer @ Sofstica**
-**Mar 2025 - Oct 2025**
-
-#### 🤖 **AI/ML Engineering**
-- Developed **QA automation tool** using Groq API + LangChain
-- Built **browser-execution agent** with Playwright
-- Core contributor to **RRS medical chatbot** (RAG + LangChain)
-- Designed **validation agent** comparing AI models
-- **Tech**: LangChain, LangGraph, RAG, Groq API, Playwright
-
-#### 📱 **Flutter Development**
-- Fixed UI/logic issues for **Routica** app
-- Built architecture for **Guardian Angel**
-- Enhanced **C4Life Installer** app
-- Delivered solutions using **MVVM architecture**
-- **Tech**: Flutter, Dart, MVVM, Stacked, Google Maps API
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 **Intern Data Scientist @ Digitenic**
-**Jun 2024 - Aug 2024**
-
-- Built ML models using **TensorFlow & Scikit-learn**
-- Performed data preprocessing & feature engineering for improved model accuracy
-- Collaborated on real-world data science projects
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **AI Trainer & Coder @ Scale AI**
-**Feb 2023 - Jan 2024**
-
-- Labeled & reviewed data for **Gemini model training**
-- Evaluated and refined **LLM responses** for quality assurance
-- Solved complex DSA/ML tasks under tight deadlines
-- Contributed to improving AI model performance
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img width="100%" src="./assets/divider.svg" alt="divider"/>
