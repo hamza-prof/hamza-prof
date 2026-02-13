@@ -1,0 +1,68 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║  🎮 CONTRIBUTION SHOWCASE WORKFLOW                                           ║
+# ║  ────────────────────────────────────────────────────────────────────────────║
+# ║  Generates Pac-Man and Snake animations for contribution graph              ║
+# ║  Runs daily and on push to main branch                                       ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+
+name: Generate Contribution Animations
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Run on push to main
+  push:
+    branches:
+      - main
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate-pacman:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    
+    steps:
+      # ═══════════════════════════════════════════════════════════════════════
+      # 👾 Generate Pac-Man Animation using official GitHub Action
+      # ═══════════════════════════════════════════════════════════════════════
+      - name: Generate Pac-Man Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # ═══════════════════════════════════════════════════════════════════════
+      # 🐍 Generate Snake Animation (Backup)
+      # ═══════════════════════════════════════════════════════════════════════
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        continue-on-error: true
+      
+      # ═══════════════════════════════════════════════════════════════════════
+      # 📋 List Generated Files
+      # ═══════════════════════════════════════════════════════════════════════
+      - name: List generated files
+        run: ls -la dist/
+      
+      # ═══════════════════════════════════════════════════════════════════════
+      # 📤 Push to output branch
+      # ═══════════════════════════════════════════════════════════════════════
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

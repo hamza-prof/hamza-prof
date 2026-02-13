@@ -1,317 +1,571 @@
-# Hi there! 👋 I'm Muhammad Hamza
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗                                 ║
+║   ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗                                ║
+║   ███████║███████║██╔████╔██║  ███╔╝ ███████║                                ║
+║   ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║                                ║
+║   ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║                                ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝                                ║
+║                                                                              ║
+║            🚀 DATA & AI ENGINEER • ML SPECIALIST • LLM AGENT BUILDER 🚀     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Hamza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Flutter%20Developer&descSize=18&descAlignY=51"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+and+AI+Engineer;🤖+LangChain+and+RAG+Systems+Architect;📊+Growth+Data+Scientist+and+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+and+Automation+Engineer;📱+Flutter+Developer+and+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<div align="center">
-  <h2>
-    🌟 <strong>Transforming Data into Intelligence | Building AI Systems that Scale</strong> 🌟
-  </h2>
-  <p style="font-size: 18px; margin: 15px 0;">
-    <em>🎯 Currently: Building end-to-end AI solutions as an <strong>Autonomous Data & AI Engineer</strong></em><br>
-    <em>💼 Working with multiple clients on ML pipelines, agent systems, and growth analytics</em><br>
-    <em>🚀 Specialized in LangChain agents, RAG systems, and production-grade ML deployment</em>
-  </p>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <p style="font-size: 16px;">
-    📍 <strong>Location:</strong> Pakistan 🇵🇰 | <strong>Open to:</strong> Remote opportunities globally 🌍<br>
-    🎓 <strong>Education:</strong> BS Computer Science @ IBA Sukkur (2021-2025)<br>
-    💬 <strong>Ask me about:</strong> LangChain, RAG, ML Pipelines, ETL, Growth Analytics, Flutter
-  </p>
+  <img src="./assets/header-animation.svg" alt="Muhammad Hamza - Data & AI Engineer" width="100%"/>
+  
+  <br/>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                           -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <a href="https://github.com/hamza-prof">
+    <img src="https://komarev.com/ghpvc/?username=hamza-prof&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hamza-prof?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamza-prof&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hamza-prof?tab=followers">
+    <img src="https://img.shields.io/github/followers/hamza-prof?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hamza-prof">
+    <img src="https://img.shields.io/github/stars/hamza-prof?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  </a>
+  
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## 🚀 What I Do
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/> 
+<div align="center">
+  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
+</div>
 
-I'm a **Data & AI Engineer** who builds intelligent systems that solve real-world problems. My expertise spans:
+<br/>
 
-- 🔄 **End-to-End ML Pipelines** - From data ingestion to model deployment
-- 🤖 **AI Agent Development** - LangChain, LangGraph, autonomous systems
-- 🔍 **RAG Systems** - Building context-aware AI applications
-- 📊 **Growth Analytics** - Data-driven decision making & experimentation
-- 🎯 **ML Model Optimization** - Fine-tuning for production accuracy
-- 📱 **Full-Stack Development** - React, Express, Flutter, and more
+<img src="./assets/divider.svg" width="100%"/>
 
-**Current Mission**: Delivering production-ready AI solutions that drive measurable business impact.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 💼 Professional Journey
+<img src="./assets/section-about.svg" width="180"/>
+
+<br/><br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🌟 **Autonomous Data & AI Engineer**
-**Oct 2025 - Present**
+### 🎯 What I Do
 
-#### 🧪 **Data Scientist @ Sene**
-- Built **end-to-end ETL pipelines** for structured/unstructured data
-- Performed **EDA** and **fine-tuned ML models** to achieve target accuracy
-- Developed **predictive analytics models** for automated decision-making
-- **Tech**: Python, Scikit-learn, Pandas, AWS (S3, Lambda, Redshift)
+```yaml
+name: Muhammad Hamza
+located_in: Pakistan 🇵🇰
+current_status: Data & AI Engineer at Autonomous
+education: BS Computer Science – IBA Sukkur University
 
-#### 📈 **Growth Data Scientist @ Memox.io**
-- Designed **A/B tests** and evaluated marketing performance
-- Implemented **funnel tracking** and conversion optimization
-- Built **automated email agents** using LangChain
-- Conducted **prompt engineering** for multiple clients
-- **Tech**: Python, LangChain, PostHog, BigQuery, Looker Studio
+areas_of_expertise:
+  - 🤖 LLM Agents & Generative AI
+  - 📊 Data Engineering & ETL Pipelines
+  - 🧠 Machine Learning & Deep Learning
+  - 🔬 Causal Inference & Marketing Analytics
+  - 📱 Mobile Development (Flutter)
+  - 🗣️ Voice AI & Conversational Systems
 
-</td>
-<td width="50%" valign="top">
+currently_building:
+  - Production LLM Agent Workflows
+  - Causal Inference for Marketing ROI
+  - RAG-powered AI Systems
 
-### 🔧 **AI/ML Engineer @ Sofstica**
-**Mar 2025 - Oct 2025**
-
-#### 🤖 **AI/ML Engineering**
-- Developed **QA automation tool** using Groq API + LangChain
-- Built **browser-execution agent** with Playwright
-- Core contributor to **RRS medical chatbot** (RAG + LangChain)
-- Designed **validation agent** comparing AI models
-- **Tech**: LangChain, LangGraph, RAG, Groq API, Playwright
-
-#### 📱 **Flutter Development**
-- Fixed UI/logic issues for **Routica** app
-- Built architecture for **Guardian Angel**
-- Enhanced **C4Life Installer** app
-- Delivered solutions using **MVVM architecture**
-- **Tech**: Flutter, Dart, MVVM, Stacked, Google Maps API
+life_philosophy: "Code is poetry. AI is the canvas."
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 📊 **Intern Data Scientist @ Digitenic**
-**Jun 2024 - Aug 2024**
+### 🚀 Current Focus
 
-- Built ML models using **TensorFlow & Scikit-learn**
-- Performed data preprocessing & feature engineering for improved model accuracy
-- Collaborated on real-world data science projects
+- 🔬 **Researching** Bayesian Causal Inference (BSTS)
+- 🤖 **Building** LLM Agents with LangChain & LangGraph
+- 🧠 **Deploying** RAG systems for production
+- 🎯 **Optimizing** ML models for clinical AI
+- 📊 **Engineering** end-to-end ETL pipelines
+- 🗣️ **Developing** Voice AI with Bland AI
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🎯 **AI Trainer & Coder @ Scale AI**
-**Feb 2023 - Jan 2024**
+### 💡 Quick Facts
 
-- Labeled & reviewed data for **Gemini model training**
-- Evaluated and refined **LLM responses** for quality assurance
-- Solved complex DSA/ML tasks under tight deadlines
-- Contributed to improving AI model performance
+- 🎓 BSCS from IBA Sukkur University (2021-2025)
+- 🔥 Boosted ML accuracy from 79% → 92%
+- 🏆 98% ROC-AUC on fraud detection
+- ☕ Fueled by coffee & curiosity
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## 🏆 Featured Projects
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💼 EXPERIENCE SECTION                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-840a-0ce7fd1e8dc1.gif" width="200"/>
+
+### 💼 Professional Experience
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Data_&_AI_Engineer-Autonomous-667eea?style=for-the-badge&labelColor=1a1b26" alt="Autonomous"/><br/>
+  <sub><b>Oct 2025 – Present</b></sub><br/>
+  <sub>ETL Pipelines • LLM Agents • Voice AI • Causal Inference</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/AI/ML_Engineer-Sofstica-764ba2?style=for-the-badge&labelColor=1a1b26" alt="Sofstica"/><br/>
+  <sub><b>Mar 2025 – Oct 2025</b></sub><br/>
+  <sub>GenAI Automation • RAG • Model Validation • Mobile Dev</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Data_Scientist_Intern-Digitenic-f093fb?style=for-the-badge&labelColor=1a1b26" alt="Digitenic"/><br/>
+  <sub><b>Jun 2024 – Aug 2024</b></sub><br/>
+  <sub>Churn Prediction • TensorFlow • Feature Engineering</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/AI_Trainer-LabelBox-27ca40?style=for-the-badge&labelColor=1a1b26" alt="LabelBox"/><br/>
+  <sub><b>Jul 2024 – Dec 2024</b></sub><br/>
+  <sub>RLHF • Gemini Model Training • QA</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/AI_Trainer-Scale_AI-fbbf24?style=for-the-badge&labelColor=1a1b26" alt="Scale AI"/><br/>
+  <sub><b>Feb 2023 – Jan 2024</b></sub><br/>
+  <sub>RLHF • OpenAI & Dolphin Models • DSA & ML</sub>
+</td>
+<td align="center" width="33%">
+</td>
+</tr>
+</table>
+
 </div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=hamza-prof&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔬 FEATURED PROJECTS                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🔬 Featured Projects & Research
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔫 **Real-Time ATM Weapon Detection**
-**Final Year Project - AI-Powered Security**
+#### 🎯 Real-Time ATM Weapon Detection (FYP)
+> YOLOv8 • React.js • Express.js • MongoDB
 
-<img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge" alt="Accuracy"/>
-
-- Built **real-time CCTV weapon detection** using **YOLOv8**
-- **Full-stack application**: React.js + Express.js + MongoDB
-- Implemented **live video streaming** and **instant alerts**
-- **Impact**: Enhancing public safety at ATM locations
-
-**Tech Stack**: YOLOv8, React.js, Express.js, MongoDB, OpenCV, WebSocket
+- 🔫 Real-time CCTV weapon detection (guns, knives) — **92% accuracy**
+- 📹 Live video streaming with alert mechanisms
+- 🌐 Full-stack app with React frontend & Express backend
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 **IEEE-CIS Fraud Detection**
-**Production-Grade ML System**
+#### 💳 IEEE-CIS Transaction Fraud Detection
+> LightGBM • Feature Engineering • Cross-Validation
 
-<img src="https://img.shields.io/badge/ROC--AUC-98%25-success?style=for-the-badge" alt="ROC-AUC"/>
-
-- **Data cleaning** and **feature engineering** for financial data
-- Trained **LightGBM model** with near-perfect accuracy
-- **Cross-validation** and hyperparameter tuning
-- **Impact**: Detecting fraudulent transactions at scale
-
-**Tech Stack**: Python, LightGBM, Scikit-learn, Pandas, SMOTE
+- 🏆 **98% ROC-AUC** score on financial fraud detection
+- 📊 Advanced class imbalance handling & feature engineering
+- ⚙️ Hyperparameter-tuned for production reliability
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### 📊 **YouTube Audience Sentiment Analysis**
-**Real-Time NLP Analytics Tool**
+#### 📊 YouTube Sentiment Analysis (Real-Time)
+> NLP • YouTube API • React.js • Matplotlib
 
-- Built pipeline to **fetch and preprocess live YouTube comments** using YouTube Data API
-- Designed **NLP sentiment classifier** for real-time audience reactions
-- Integrated into **React.js interface** with sentiment visualizations
-- **Impact**: Real-time audience insights for content creators
+- 🔄 Real-time YouTube comment sentiment pipeline
+- 🧠 NLP classifier for audience reaction categorization
+- 📈 Trend visualizations with Matplotlib dashboards
 
-**Tech Stack**: Python, NLP, NLTK, React.js, YouTube API, Matplotlib
+</td>
+<td width="50%" valign="top">
+
+#### 🏥 Diabetes Detection System
+> XGBoost • Clinical AI • Probability Framework
+
+- 🤖 Risk prediction with XGBoost classifier
+- 📋 Probability-based classification: Diabetic / Pre-diabetic / Non-diabetic
+- 🔬 Interpretable results for clinical decision support
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### 💻 **Core Technologies**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 **AI/ML Ecosystem**
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-
-**Specialized**: LangChain • LangGraph • RAG Systems • YOLO (v8) • Groq API • OpenAI • Flowise • Lovable
-
-### 🌐 **Full-Stack Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Services**: Lambda • S3 • Redshift • BigQuery • Airflow
-
-### 🗄️ **Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 </div>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-</div>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./assets/divider.svg" width="100%"/>
 
-## 📈 GitHub Analytics
+<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-840a-0ce7fd1e8dc1.gif" width="200"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamza-prof&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-prof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&langs_count=8"/>
-</div>
+<img src="./assets/section-stats.svg" width="220"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-prof&theme=tokyo-night&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Certifications & Learning
-
-- 📊 **Data Science Bootcamp** - FAST NUCES Karachi (Jun - Sep 2023)
-- 🧠 **Continuous Learning**: Advanced Deep Learning, LangGraph, RAG Systems, Growth Analytics
-- 🚀 **Always exploring**: Latest AI/ML trends and cutting-edge technologies
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌐 Let's Connect!
+<br/><br/>
 
 <div align="center">
   
-### 💼 Professional Network
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/hamza-prof">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamza-prof&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hamza-prof">
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-prof&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/hamza-prof">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamza-prof&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/hamza-prof">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-prof&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-prof&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
 
-<a href="https://linkedin.com/in/muhammad-hamza](https://www.linkedin.com/in/muhammad-hamza-data-scientist/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:m.hamza.aieng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-game.svg" width="280"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-tech.svg" width="180"/>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- 💻 LANGUAGES -->
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" title="Dart"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL" title="SQL"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
+</p>
+
+<!-- 🤖 AI & MACHINE LEARNING -->
+<h4>🤖 AI & Machine Learning</h4>
+<p>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/RAG-764ba2?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="N8N"/>
+  <img src="https://img.shields.io/badge/Flowise-4285F4?style=flat-square&logoColor=white" alt="Flowise"/>
+</p>
+
+<!-- 🌐 FRAMEWORKS -->
+<h4>🌐 Frameworks</h4>
+<p>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+</p>
+
+<!-- 🔧 TOOLS & PLATFORMS -->
+<h4>🔧 Tools & Platforms</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLFlow"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
+
+<!-- 🧪 SPECIALIZATIONS -->
+<h4>🧪 Specializations</h4>
+<p>
+  <img src="https://img.shields.io/badge/Causal_Inference-667eea?style=flat-square&logoColor=white" alt="Causal Inference"/>
+  <img src="https://img.shields.io/badge/Marketing_Mix_Modeling-764ba2?style=flat-square&logoColor=white" alt="MMM"/>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-f093fb?style=flat-square&logoColor=white" alt="ETL"/>
+  <img src="https://img.shields.io/badge/NLP-27ca40?style=flat-square&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LLM_Finetuning-fbbf24?style=flat-square&logoColor=black" alt="LLM Finetuning"/>
+  <img src="https://img.shields.io/badge/Function_Calling-a78bfa?style=flat-square&logoColor=white" alt="Function Calling"/>
+</p>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENTLY WORKING ON                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### ⚡ Currently Building & Learning
+
+<br/>
+
 <a href="https://github.com/hamza-prof">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/🤖_LLM_Agents-Agentic_AI_Workflows-667eea?style=for-the-badge&labelColor=1a1b26"/>
 </a>
-
-### 💻 Coding Platforms
-
-<a href="https://www.hackerrank.com/@hamzaqureshi2937">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+&nbsp;
+<a href="https://github.com/hamza-prof">
+  <img src="https://img.shields.io/badge/🔬_Causal_AI-BSTS_&_GeoLift-764ba2?style=for-the-badge&labelColor=1a1b26"/>
 </a>
-<a href="https://www.leetcode.com/hamzey">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://twitter.com/@yaar_hamzey">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+&nbsp;
+<a href="https://github.com/hamza-prof">
+  <img src="https://img.shields.io/badge/🗣️_Voice_AI-Bland_AI_Agents-f093fb?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## 📊 Profile Stats
+<img src="./assets/divider.svg" width="100%"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamza-prof&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/hamza-prof?label=Followers&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-orange?style=for-the-badge"/>
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎓 EDUCATION & CERTIFICATIONS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <br>
-  <h3>💡 "Building intelligent systems that turn data into decisions"</h3>
-  <p><i>⭐️ From <a href="https://github.com/hamza-prof">hamza-prof</a> - Passionate about AI, ML, and solving real-world problems</i></p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### 🎓 Education & Certifications
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/BS_Computer_Science-IBA_Sukkur-667eea?style=for-the-badge&labelColor=1a1b26"/><br/>
+  <sub><b>2021 – 2025</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Data_Science_Bootcamp-FAST_NUCES-764ba2?style=for-the-badge&labelColor=1a1b26"/><br/>
+  <sub><b>Jun 2023 – Sep 2023</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Gen_AI_&_Agentic_AI-Udemy-f093fb?style=for-the-badge&labelColor=1a1b26"/><br/>
+  <sub><b>Nov 2025 – Jan 2026</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-connect.svg" width="160"/>
+
+<br/><br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  
+<a href="https://github.com/hamza-prof" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/muhammad-hamza/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:hhamza2937@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+</a>
+&nbsp;
+<a href="tel:+923058769597">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b26" alt="Phone"/>
+</a>
+
 </div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<br/>
+
+<a href="https://github.com/hamza-prof">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <img src="./assets/footer.svg" width="100%"/>
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+  
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
