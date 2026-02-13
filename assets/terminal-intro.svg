@@ -1,18 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="480" viewBox="0 0 650 480">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="480" viewBox="0 0 850 480">
   <defs>
     <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#1a1b26"/>
       <stop offset="100%" style="stop-color:#13141a"/>
     </linearGradient>
+    <style>
+      .cmd-text {
+        font-family: 'SF Mono', 'JetBrains Mono', 'Consolas', monospace;
+        font-size: 14px;
+        fill: #e5e7eb;
+      }
+      
+      /* Block Cursor */
+      .cursor-block {
+        width: 10px;
+        height: 18px;
+        fill: #667eea;
+        opacity: 0;
+      }
+
+      /* Animation Logic - 12s Loop */
+      .typing-group { opacity: 0; }
+      .phrase1 { animation: cycle1 12s linear infinite; }
+      .phrase2 { animation: cycle2 12s linear infinite; }
+      .phrase3 { animation: cycle3 12s linear infinite; }
+
+      /* Keyframes for text and cursor visibility */
+      /* Each phase: 
+         0-10%: Type text
+         10-20%: Type dots (loading)
+         20-30%: Hold
+         30-33%: Delete 
+      */
+
+      /* Phrase 1: executing_autonomous_agents... */
+      @keyframes cycle1 {
+        0% { opacity: 1; }
+        30% { opacity: 1; }
+        33%, 100% { opacity: 0; }
+      }
+
+      /* Phrase 2: fine_tuning_llm_models... */
+      @keyframes cycle2 {
+        0%, 33.33% { opacity: 0; }
+        33.34% { opacity: 1; }
+        63.33% { opacity: 1; }
+        66.66%, 100% { opacity: 0; }
+      }
+
+      /* Phrase 3: system_ready_for_impact... */
+      @keyframes cycle3 {
+        0%, 66.66% { opacity: 0; }
+        66.67% { opacity: 1; }
+        96.66% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+
+      /* Typing masks/clip-paths */
+      #mask1 { animation: typeMask1 12s steps(30, end) infinite; }
+      #mask2 { animation: typeMask2 12s steps(30, end) infinite; }
+      #mask3 { animation: typeMask3 12s steps(30, end) infinite; }
+
+      @keyframes typeMask1 {
+        0% { width: 0; }
+        10% { width: 230px; } /* Text typed */
+        15% { width: 230px; } /* Wait */
+        16% { width: 238px; } /* . */
+        17% { width: 246px; } /* .. */
+        18% { width: 254px; } /* ... */
+        30% { width: 254px; } /* Hold */
+        33% { width: 0; }     /* Delete */
+        100% { width: 0; }
+      }
+
+      @keyframes typeMask2 {
+        0%, 33.33% { width: 0; }
+        43.33% { width: 210px; } /* Text */
+        48.33% { width: 210px; }
+        49.33% { width: 218px; } /* . */
+        50.33% { width: 226px; } /* .. */
+        51.33% { width: 234px; } /* ... */
+        63.33% { width: 234px; }
+        66.66% { width: 0; }
+        100% { width: 0; }
+      }
+
+      @keyframes typeMask3 {
+        0%, 66.66% { width: 0; }
+        76.66% { width: 200px; } /* Text */
+        81.66% { width: 200px; }
+        82.66% { width: 208px; } /* . */
+        83.66% { width: 216px; } /* .. */
+        84.66% { width: 224px; } /* ... */
+        96.66% { width: 224px; }
+        100% { width: 0; }
+      }
+
+      /* Cursor Movement */
+      #cursor1 { animation: cursorMove1 12s steps(30, end) infinite, blink 1s step-end infinite; }
+      #cursor2 { animation: cursorMove2 12s steps(30, end) infinite, blink 1s step-end infinite; }
+      #cursor3 { animation: cursorMove3 12s steps(30, end) infinite, blink 1s step-end infinite; }
+
+      @keyframes cursorMove1 {
+        0% { x: 0; opacity: 1; }
+        10% { x: 230px; }
+        15% { x: 230px; }
+        16% { x: 238px; }
+        17% { x: 246px; }
+        18% { x: 254px; }
+        30% { x: 254px; opacity: 1; }
+        31% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      @keyframes cursorMove2 {
+        0%, 33.33% { x: 0; opacity: 0; }
+        33.34% { opacity: 1; }
+        43.33% { x: 210px; }
+        48.33% { x: 210px; }
+        49.33% { x: 218px; }
+        50.33% { x: 226px; }
+        51.33% { x: 234px; }
+        63.33% { x: 234px; opacity: 1; }
+        64.33% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      @keyframes cursorMove3 {
+        0%, 66.66% { x: 0; opacity: 0; }
+        66.67% { opacity: 1; }
+        76.66% { x: 200px; }
+        81.66% { x: 200px; }
+        82.66% { x: 208px; }
+        83.66% { x: 216px; }
+        84.66% { x: 224px; }
+        96.66% { x: 224px; opacity: 1; }
+        97.66% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+    </style>
   </defs>
   
   <!-- Terminal Window -->
-  <rect x="0" y="0" width="650" height="480" rx="12" ry="12" fill="url(#termBg)" stroke="#2d2d3a" stroke-width="1"/>
+  <rect x="0" y="0" width="850" height="480" rx="12" ry="12" fill="url(#termBg)" stroke="#2d2d3a" stroke-width="1"/>
   
   <!-- Terminal Title Bar -->
-  <rect x="0" y="0" width="650" height="36" rx="12" ry="12" fill="#1e1f29"/>
-  <rect x="0" y="24" width="650" height="12" fill="#1e1f29"/>
+  <rect x="0" y="0" width="850" height="36" rx="12" ry="12" fill="#1e1f29"/>
+  <rect x="0" y="24" width="850" height="12" fill="#1e1f29"/>
   
   <!-- Window Controls -->
   <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
@@ -20,7 +158,7 @@
   <circle cx="60" cy="18" r="6" fill="#27ca40"/>
   
   <!-- Terminal Title -->
-  <text x="325" y="23" text-anchor="middle" font-family="'SF Mono', 'Consolas', monospace" font-size="12" fill="#6b7280">
+  <text x="425" y="23" text-anchor="middle" font-family="'SF Mono', 'Consolas', monospace" font-size="12" fill="#6b7280">
     hamza@dev — zsh
   </text>
   
@@ -68,10 +206,39 @@
     
     <text x="20" y="430" fill="#fbbf24">}</text>
     
-    <!-- New Command Line -->
-    <text x="20" y="460" fill="#27ca40">❯</text>
-    <rect x="40" y="448" width="10" height="16" fill="#667eea">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
+    <!-- Animated Typewriter Section -->
+    <g transform="translate(20, 460)">
+      <text x="0" y="0" fill="#27ca40">❯</text>
+      
+      <!-- Stacking text elements on top of each other -->
+      <g transform="translate(20, 0)">
+        <!-- Phrase 1 -->
+        <g class="typing-group phrase1">
+           <defs>
+             <clipPath id="clip1"><rect id="mask1" x="0" y="-15" width="0" height="20"/></clipPath>
+           </defs>
+           <text class="cmd-text" x="0" y="0" clip-path="url(#clip1)">executing_autonomous_agents...</text>
+           <rect id="cursor1" class="cursor-block" x="0" y="-13"/>
+        </g>
+        
+        <!-- Phrase 2 -->
+        <g class="typing-group phrase2">
+           <defs>
+             <clipPath id="clip2"><rect id="mask2" x="0" y="-15" width="0" height="20"/></clipPath>
+           </defs>
+           <text class="cmd-text" x="0" y="0" clip-path="url(#clip2)">fine_tuning_llm_models...</text>
+           <rect id="cursor2" class="cursor-block" x="0" y="-13"/>
+        </g>
+        
+        <!-- Phrase 3 -->
+        <g class="typing-group phrase3">
+           <defs>
+             <clipPath id="clip3"><rect id="mask3" x="0" y="-15" width="0" height="20"/></clipPath>
+           </defs>
+           <text class="cmd-text" x="0" y="0" clip-path="url(#clip3)">system_ready_for_impact...</text>
+           <rect id="cursor3" class="cursor-block" x="0" y="-13"/>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
