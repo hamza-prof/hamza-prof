@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="300" viewBox="0 0 650 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="480" viewBox="0 0 650 480">
   <defs>
     <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#1a1b26"/>
@@ -8,7 +8,7 @@
   </defs>
   
   <!-- Terminal Window -->
-  <rect x="0" y="0" width="650" height="300" rx="12" ry="12" fill="url(#termBg)" stroke="#2d2d3a" stroke-width="1"/>
+  <rect x="0" y="0" width="650" height="480" rx="12" ry="12" fill="url(#termBg)" stroke="#2d2d3a" stroke-width="1"/>
   
   <!-- Terminal Title Bar -->
   <rect x="0" y="0" width="650" height="36" rx="12" ry="12" fill="#1e1f29"/>
@@ -25,43 +25,52 @@
   </text>
   
   <!-- Terminal Content -->
-  <g font-family="'SF Mono', 'JetBrains Mono', 'Consolas', monospace" font-size="13">
+  <g font-family="'SF Mono', 'JetBrains Mono', 'Consolas', monospace" font-size="14">
     <!-- Command 1 -->
-    <text x="20" y="65" fill="#27ca40">❯</text>
-    <text x="40" y="65" fill="#e5e7eb">cat profile.json</text>
+    <text x="20" y="70" fill="#27ca40">❯</text>
+    <text x="40" y="70" fill="#e5e7eb">cat profile.json</text>
     
     <!-- JSON Output -->
-    <text x="20" y="95" fill="#fbbf24">{</text>
+    <text x="20" y="100" fill="#fbbf24">{</text>
     
-    <text x="35" y="120" fill="#a78bfa">"name"</text>
-    <text x="90" y="120" fill="#9ca3af">:</text>
-    <text x="100" y="120" fill="#34d399">"Muhammad Hamza"</text>
-    <text x="245" y="120" fill="#9ca3af">,</text>
+    <text x="40" y="130" fill="#a78bfa">"role"</text>
+    <text x="90" y="130" fill="#9ca3af">:</text>
+    <text x="105" y="130" fill="#34d399">"Data &amp; AI Engineer"</text>
+    <text x="285" y="130" fill="#9ca3af">,</text>
     
-    <text x="35" y="145" fill="#a78bfa">"role"</text>
-    <text x="85" y="145" fill="#9ca3af">:</text>
-    <text x="95" y="145" fill="#34d399">"Data &amp; AI Engineer"</text>
-    <text x="280" y="145" fill="#9ca3af">,</text>
+    <text x="40" y="160" fill="#a78bfa">"expertise"</text>
+    <text x="135" y="160" fill="#9ca3af">:</text>
+    <text x="150" y="160" fill="#fbbf24">[</text>
     
-    <text x="35" y="170" fill="#a78bfa">"location"</text>
-    <text x="115" y="170" fill="#9ca3af">:</text>
-    <text x="125" y="170" fill="#34d399">"Pakistan 🇵🇰"</text>
-    <text x="250" y="170" fill="#9ca3af">,</text>
+    <text x="60" y="190" fill="#34d399">"End-to-End ML Pipelines"</text>
+    <text x="260" y="190" fill="#9ca3af">,</text>
     
-    <text x="35" y="195" fill="#a78bfa">"focus"</text>
-    <text x="90" y="195" fill="#9ca3af">:</text>
-    <text x="100" y="195" fill="#34d399">"Data Science &amp; AI Engineering"</text>
-    <text x="370" y="195" fill="#9ca3af">,</text>
+    <text x="60" y="220" fill="#34d399">"AI Agent Development"</text>
+    <text x="240" y="220" fill="#9ca3af">,</text>
     
-    <text x="35" y="220" fill="#a78bfa">"goal"</text>
-    <text x="80" y="220" fill="#9ca3af">:</text>
-    <text x="90" y="220" fill="#34d399">"Building Production AI Systems"</text>
+    <text x="60" y="250" fill="#34d399">"RAG Systems &amp; LLM Arch"</text>
+    <text x="280" y="250" fill="#9ca3af">,</text>
     
-    <text x="20" y="245" fill="#fbbf24">}</text>
+    <text x="60" y="280" fill="#34d399">"Growth Analytics"</text>
+    <text x="210" y="280" fill="#9ca3af">,</text>
+    
+    <text x="60" y="310" fill="#34d399">"ML Model Optimization"</text>
+    <text x="250" y="310" fill="#9ca3af">,</text>
+    
+    <text x="60" y="340" fill="#34d399">"Full-Stack (React/Flutter)"</text>
+    
+    <text x="40" y="370" fill="#fbbf24">]</text>
+    <text x="50" y="370" fill="#9ca3af">,</text>
+    
+    <text x="40" y="400" fill="#a78bfa">"mission"</text>
+    <text x="115" y="400" fill="#9ca3af">:</text>
+    <text x="130" y="400" fill="#34d399">"Building Production AI Systems"</text>
+    
+    <text x="20" y="430" fill="#fbbf24">}</text>
     
     <!-- New Command Line -->
-    <text x="20" y="275" fill="#27ca40">❯</text>
-    <rect x="40" y="263" width="10" height="16" fill="#667eea">
+    <text x="20" y="460" fill="#27ca40">❯</text>
+    <rect x="40" y="448" width="10" height="16" fill="#667eea">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>

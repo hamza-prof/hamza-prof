@@ -24,27 +24,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
 
-<table>
-  <tr>
-    <td width="60%">
-      I'm a **Data & AI Engineer** who builds intelligent systems that solve real-world problems. My expertise spans:
-
-      - 🔄 **End-to-End ML Pipelines** — From data ingestion to model deployment
-      - 🤖 **AI Agent Development** — LangChain, LangGraph, autonomous systems
-      - 🔍 **RAG Systems** — Building context-aware AI applications
-      - 📊 **Growth Analytics** — Data-driven decision making & experimentation
-      - 🎯 **ML Model Optimization** — Fine-tuning for production accuracy
-      - 📱 **Full-Stack Development** — React, Express, Flutter, and more
-
-      > *💡 **Current Mission**: Delivering production-ready AI solutions that drive measurable business impact.*
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="80%"/>
+</div>
 
 <div align="center">
   <img width="100%" src="./assets/divider.svg" alt="divider"/>
