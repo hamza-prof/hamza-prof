@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+and+AI+Engineer;🤖+LangChain+and+RAG+Systems+Architect;📊+Growth+Data+Scientist+and+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+and+Automation+Engineer;📱+Flutter+Developer+and+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Fira%20Code&center=true&width=900&height=80&duration=3000&pause=1000&size=24&color=58A6FF" alt="Typing Animation">
+  <img src="./assets/pacman-typewriter.svg" alt="Pac-Man Typing Animation" width="100%">
 </div>
 
 <br>
@@ -18,49 +18,31 @@
 
 <br>
 
-<!-- ═══════════════════ TERMINAL INTRO ═══════════════════════ -->
-
-<div align="center">
-  <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="650"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>
-    🌟 <strong>Transforming Data into Intelligence | Building AI Systems that Scale</strong> 🌟
-  </h2>
-  <p>
-    <img src="https://img.shields.io/badge/🎯_Currently-Autonomous_Data_&_AI_Engineer-667eea?style=for-the-badge&labelColor=0d1117" alt="Current Role"/>
-    <img src="https://img.shields.io/badge/📍_Based_in-Pakistan_🇵🇰-764ba2?style=for-the-badge&labelColor=0d1117" alt="Location"/>
-    <img src="https://img.shields.io/badge/🎓_BS_CS-IBA_Sukkur_(2021--2025)-f093fb?style=for-the-badge&labelColor=0d1117" alt="Education"/>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="./assets/divider.svg" alt="divider"/>
-</div>
-
 <!-- ═══════════════════ WHAT I DO ═══════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/> 
+<table>
+  <tr>
+    <td width="60%">
+      I'm a **Data & AI Engineer** who builds intelligent systems that solve real-world problems. My expertise spans:
 
-I'm a **Data & AI Engineer** who builds intelligent systems that solve real-world problems. My expertise spans:
+      - 🔄 **End-to-End ML Pipelines** — From data ingestion to model deployment
+      - 🤖 **AI Agent Development** — LangChain, LangGraph, autonomous systems
+      - 🔍 **RAG Systems** — Building context-aware AI applications
+      - 📊 **Growth Analytics** — Data-driven decision making & experimentation
+      - 🎯 **ML Model Optimization** — Fine-tuning for production accuracy
+      - 📱 **Full-Stack Development** — React, Express, Flutter, and more
 
-- 🔄 **End-to-End ML Pipelines** — From data ingestion to model deployment
-- 🤖 **AI Agent Development** — LangChain, LangGraph, autonomous systems
-- 🔍 **RAG Systems** — Building context-aware AI applications
-- 📊 **Growth Analytics** — Data-driven decision making & experimentation
-- 🎯 **ML Model Optimization** — Fine-tuning for production accuracy
-- 📱 **Full-Stack Development** — React, Express, Flutter, and more
-
-> *💡 **Current Mission**: Delivering production-ready AI solutions that drive measurable business impact.*
-
-<br clear="both">
+      > *💡 **Current Mission**: Delivering production-ready AI solutions that drive measurable business impact.*
+    </td>
+    <td width="40%">
+      <div align="center">
+        <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="100%"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img width="100%" src="./assets/divider.svg" alt="divider"/>

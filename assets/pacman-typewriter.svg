@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&amp;display=swap');
+      
+      .bg { fill: #0d1117; }
+      .text { font-family: 'Fira Code', monospace; font-size: 28px; fill: #58a6ff; font-weight: 500; }
+      
+      /* Typing Animation Sequence - 12s total cycle */
+      /* Each phrase types for 2s, holds 1s, gets eaten 1s */
+      
+      .phrase1 { opacity: 0; animation: phrase1 12s linear infinite; }
+      .phrase2 { opacity: 0; animation: phrase2 12s linear infinite; }
+      .phrase3 { opacity: 0; animation: phrase3 12s linear infinite; }
+      
+      @keyframes phrase1 {
+        0% { opacity: 1; clip-path: inset(0 100% 0 0); } /* Start hidden */
+        5% { clip-path: inset(0 100% 0 0); } /* Hold start */
+        20% { clip-path: inset(0 0 0 0); }   /* Typed out */
+        30% { opacity: 1; }                  /* Wait for eating */
+        35% { opacity: 0; }                  /* Eaten! */
+        100% { opacity: 0; }
+      }
+      
+      @keyframes phrase2 {
+        0%, 33% { opacity: 0; }
+        33.1% { opacity: 1; clip-path: inset(0 100% 0 0); }
+        38% { clip-path: inset(0 100% 0 0); }
+        53% { clip-path: inset(0 0 0 0); }
+        63% { opacity: 1; }
+        68% { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      
+      @keyframes phrase3 {
+        0%, 66% { opacity: 0; }
+        66.1% { opacity: 1; clip-path: inset(0 100% 0 0); }
+        71% { clip-path: inset(0 100% 0 0); }
+        86% { clip-path: inset(0 0 0 0); }
+        96% { opacity: 1; }
+        100% { opacity: 0; } /* Loop back or hide */
+      }
+      
+      /* Pacman Animation */
+      .pacman-group { 
+        transform: translateX(-100px); 
+        animation: eatCycle 12s linear infinite; 
+      }
+      
+      @keyframes eatCycle {
+        /* Phrase 1 Eating (Time 30%-35%) */
+        0%, 25% { transform: translateX(-100px); opacity: 0; } /* Wait while typing */
+        30% { transform: translateX(0px); opacity: 1; }        /* Appear at start */
+        35% { transform: translateX(800px); opacity: 1; }      /* Move across quickly */
+        36% { transform: translateX(800px); opacity: 0; }      /* Hide */
+        
+        /* Phrase 2 Eating (Time 63%-68%) */
+        37%, 60% { transform: translateX(-100px); opacity: 0; }
+        63% { transform: translateX(0px); opacity: 1; }
+        68% { transform: translateX(800px); opacity: 1; }
+        69% { transform: translateX(800px); opacity: 0; }
+        
+        /* Phrase 3 Eating (Time 96%-100%) */
+        70%, 93% { transform: translateX(-100px); opacity: 0; }
+        96% { transform: translateX(0px); opacity: 1; }
+        100% { transform: translateX(800px); opacity: 1; }
+      }
+
+      /* Mouth Animation */
+      .pacman-top { animation: chompTop 0.2s infinite alternate; }
+      .pacman-bottom { animation: chompBottom 0.2s infinite alternate; }
+      
+      @keyframes chompTop { to { transform: rotate(-30deg); } }
+      @keyframes chompBottom { to { transform: rotate(30deg); } }
+      
+      /* Cursor Blink - Only visible during typing phases? Simplified for now */
+      .cursor-rect { 
+        fill: #58a6ff; 
+        width: 12px; height: 35px; 
+        animation: blink 0.8s infinite; 
+        opacity: 0; /* Base opacity */
+      }
+      
+      /* Complex cursor animation to follow typing is hard with pure CSS 
+         Simpler: Just show blinking cursor at end of line during hold? 
+         Or omit cursor for cleaner look with Pacman. Omitting for clarity. 
+      */
+      
+    </style>
+    
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <rect width="23" height="23" x="1" y="1" rx="4" fill="#2ea043" fill-opacity="0.1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg"/>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  
+  <!-- Text Container -->
+  <svg x="50" y="0" width="700" height="120">
+     <!-- Text elements -->
+     <text x="0" y="70" class="text phrase1">🚀 Autonomous AI Engineer</text>
+     <text x="0" y="70" class="text phrase2">🤖 RAG &amp; LLM Architect</text>
+     <text x="0" y="70" class="text phrase3">📊 Growth Data Scientist</text>
+  </svg>
+  
+  <!-- Pac-Man Group -->
+  <g class="pacman-group" transform="translate(0, 60)">
+    <!-- SVG Pacman using Paths for mouth animation -->
+    <path class="pacman-top" d="M0,0 L30,-30 A30,30 0 1,0 -30,0 Z" fill="#f1e05a" transform="rotate(0)"/>
+    <path class="pacman-bottom" d="M0,0 L30,30 A30,30 0 0,1 -30,0 Z" fill="#f1e05a" transform="rotate(0)"/>
+    <circle cx="-10" cy="-15" r="3" fill="#0d1117"/> <!-- Eye -->
+  </g>
+
+</svg>
