@@ -150,8 +150,8 @@
     <text x="20" y="100" fill="#fbbf24">{</text>
     <text x="40" y="130" fill="#a78bfa">"role"</text>
     <text x="90" y="130" fill="#9ca3af">:</text>
-    <text x="105" y="130" fill="#34d399">"Data &amp; AI Engineer"</text>
-    <text x="285" y="130" fill="#9ca3af">,</text>
+    <text x="105" y="130" fill="#34d399">"AI/ML Engineer"</text>
+    <text x="248" y="130" fill="#9ca3af">,</text>
     <text x="40" y="160" fill="#a78bfa">"expertise"</text>
     <text x="135" y="160" fill="#9ca3af">:</text>
     <text x="150" y="160" fill="#fbbf24">[</text>
@@ -161,11 +161,11 @@
     <text x="240" y="220" fill="#9ca3af">,</text>
     <text x="60" y="250" fill="#34d399">"RAG Systems &amp; LLM Arch"</text>
     <text x="280" y="250" fill="#9ca3af">,</text>
-    <text x="60" y="280" fill="#34d399">"Growth Analytics"</text>
-    <text x="210" y="280" fill="#9ca3af">,</text>
+    <text x="60" y="280" fill="#34d399">"Voice &amp; Multimodal AI"</text>
+    <text x="262" y="280" fill="#9ca3af">,</text>
     <text x="60" y="310" fill="#34d399">"ML Model Optimization"</text>
     <text x="250" y="310" fill="#9ca3af">,</text>
-    <text x="60" y="340" fill="#34d399">"Full-Stack (React/Flutter)"</text>
+    <text x="60" y="340" fill="#34d399">"LLMOps &amp; Prompt Eng"</text>
     <text x="40" y="370" fill="#fbbf24">]</text>
     <text x="50" y="370" fill="#9ca3af">,</text>
     <text x="40" y="400" fill="#a78bfa">"mission"</text>

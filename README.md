@@ -1,11 +1,11 @@
 # Hi there! <img src="assets/me.svg" width="80" vertical-align="middle"> I'm Muhammad Hamza
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Hamza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Flutter%20Developer&descSize=18&descAlignY=51"/>
+  <img width="100%" src="./assets/header-terminal.svg" alt="Terminal Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Autonomous+Data+and+AI+Engineer;🤖+LangChain+and+RAG+Systems+Architect;📊+Growth+Data+Scientist+and+Analytics+Expert;🧠+ML+Model+Fine-Tuning+Specialist;🔧+ETL+Pipeline+and+Automation+Engineer;📱+Flutter+Developer+and+Mobile+Expert;💡+Building+AI-Powered+Solutions+at+Scale&font=Dancing%20Script&center=true&width=900&height=80&duration=3000&pause=1000&size=26&color=58a6ff" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%9A%80+Building+Production+GenAI+%26+Voice+Agents;%F0%9F%A4%96+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+AI+%28ElevenLabs+%2B+Twilio%29;%F0%9F%A7%A0+LLMOps+%E2%80%A2+Prompt+Versioning+%E2%80%A2+CI%2FCD;%F0%9F%94%A7+ETL+Pipelines+%E2%80%A2+Workflow+Orchestration;%F0%9F%92%A1+Shipping+Enterprise+GenAI+Platforms&font=Dancing%20Script&center=true&width=900&height=80&duration=3000&pause=1000&size=26&color=58a6ff" alt="Typing Animation">
 </div>
 
 <div style="font-family: 'Dancing Script', cursive;">
@@ -20,9 +20,29 @@
 
 <br>
 
+<!-- ════════════════ CURRENTLY ═══════════════════════════════ -->
+
+## ❯ cat currently.md
+
+<div align="center">
+
+🔭 **AI/ML Engineer @ 1Click** — shipping a production multi-agent **AI voice caller** (ElevenLabs STT/TTS · Twilio · tool calling · Google Calendar booking)
+
+🌱 **Exploring** LLMOps maturity — prompt versioning, RAGAS evals, LLM Gateways & GuardRails
+
+💬 **Ask me about** GenAI pipelines, RAG, real-time voice AI, and multi-agent orchestration (LangChain/LangGraph)
+
+📫 **Reach me:** hhamza2937@gmail.com
+
+</div>
+
+<div align="center">
+  <img width="100%" src="./assets/divider.svg" alt="divider"/>
+</div>
+
 <!-- ═══════════════════ WHAT I DO ═══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> What I Do
+## ❯ whoami
 
 <div align="center">
   <img src="./assets/terminal-intro.svg" alt="Terminal Intro" width="100%"/>
@@ -34,12 +54,74 @@
 
 <!-- ═══════════════════ PROFESSIONAL JOURNEY ═══════════════ -->
 
-## 💼 Professional Journey
+## ❯ git log --experience
 
-<div align="center">
-  <img width="100%" src="assets/terminal-experience.svg" alt="Professional Experience Terminal"/>
-</div>
+<details open>
+<summary><b>🎧 1Click</b> — <i>AI/ML Engineer</i> · Feb 2026 – Present</summary>
+<br>
 
+<p align="right"><img src="https://img.shields.io/badge/Voice_AI-Production-success?style=flat-square&logo=elevenlabs&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-voice_F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/Low_latency-real_time-blue?style=flat-square"/></p>
+
+- **Architected & deployed a production multi-agent AI voice caller** — ElevenLabs STT/TTS with native Twilio integration, Google Calendar booking, and tool calling (slot lookup, booking, SMS dispatch). Built the **Python backend** (webhooks, websockets, DB), set up **CI/CD**, deployed, and ran successful **real-lead call tests**.
+- Delivered an end-to-end **low-latency pipeline**: audio capture via loopback server (16 Hz in / 24 Hz out) → **Silero VAD** → LLM (**Groq + Ollama**) → **Kokoro TTS**, with a modular streaming architecture for real-time speech in/out.
+- Engineered **GenAI content pipelines in Make.com** that extract & structure 1–2 hr audio/video via **AssemblyAI + Whisper** and generate AI content; tested on 50+ records, migrated to premium APIs, delivered a client guide video.
+- Built an **automated activity-generation pipeline** with error handling, checkpoints, a tracker, and DB storage — produced **6,000+ activities** across schema iterations with a full QA report.
+- **Orchestrated AI workflow automations** across **n8n, Zapier, Fillout**, integrating client platforms via APIs, webhooks & middleware (dynamic PDF generation, email nodes, JS data cleaning).
+- **Optimized ML models** (Random Forest, XGBoost, CatBoost) with hyperparameter tuning, selecting **CatBoost** for the lowest error rate on app-rating prediction.
+
+`Python` `ElevenLabs` `Twilio` `Silero VAD` `Groq` `Ollama` `Kokoro TTS` `AssemblyAI` `Whisper` `Make.com` `n8n` `Zapier` `CI/CD` `WebSockets` `CatBoost`
+
+</details>
+
+<details>
+<summary><b>🧬 AutonomousTech</b> — <i>Data & AI Engineer</i> · Oct 2025 – Mar 2026</summary>
+<br>
+
+<p align="right"><img src="https://img.shields.io/badge/Accuracy-79%25%E2%86%9292%25-success?style=flat-square"/> <img src="https://img.shields.io/badge/Causal_Inference-BSTS-informational?style=flat-square"/></p>
+
+- **Architected end-to-end ETL pipelines** ingesting & cleaning structured + unstructured data; **boosted ML model accuracy from 79% → 92%** via hybrid-data retraining, advanced EDA, and grouped outlier removal.
+- Deployed a **Diabetes Detection System** (XGBoost) with a probability-based framework for interpretable Diabetic / Pre-diabetic / non-diabetic classification.
+- Built **context-aware LLM prompt workflows** with **SerpAPI + Tavily** real-time web search and a **voice AI session retriever (Bland AI)** that maintained context across calls.
+- Led **causal-inference research** (BSTS, CausalImpact, PyMC, GeoLift) isolating true campaign lift from organic growth to optimize budget allocation.
+
+`ETL` `XGBoost` `EDA` `CausalImpact` `PyMC` `GeoLift` `Bland AI` `SerpAPI` `Tavily` `Python`
+
+</details>
+
+<details>
+<summary><b>🧪 Sofstica</b> — <i>AI/ML Engineer</i> · Mar 2025 – Oct 2025</summary>
+<br>
+
+<p align="right"><img src="https://img.shields.io/badge/Manual_testing-%E2%86%9340%25-success?style=flat-square"/> <img src="https://img.shields.io/badge/Coverage-+25%25-blue?style=flat-square"/></p>
+
+- Engineered a **GenAI QA automation tool** with the **Groq API + LangChain**, cutting manual testing time by **40%** and raising coverage by **25%** via autonomous **Playwright** browser execution.
+- Built a **RAG medical chatbot** with **LangChain agents** + a validation agent, benchmarking **DeepSeek R1 vs OpenAI Omni** responses.
+
+`LangChain` `Groq` `Llama 3` `Playwright` `RAG` `DeepSeek R1` `OpenAI`
+
+</details>
+
+<details>
+<summary><b>🔬 Digitenic</b> — <i>Intern Data Scientist</i> · Jun 2024 – Aug 2024</summary>
+<br>
+
+<p align="right"><img src="https://img.shields.io/badge/Validation_accuracy-85%25-success?style=flat-square"/></p>
+
+- Developed a **Customer Churn Prediction** model with **TensorFlow + scikit-learn** achieving **85% validation accuracy**; drove preprocessing & feature engineering that reduced data noise feeding the model.
+
+`TensorFlow` `scikit-learn` `Feature Engineering` `Python`
+
+</details>
+
+<details>
+<summary><b>🤖 ScaleAI</b> — <i>AI Trainer & Coder</i> · Feb 2023 – Jan 2024</summary>
+<br>
+
+- Labeled & reviewed code data to refine **Gemini** via **RLHF (Reinforcement Learning from Human Feedback)**; evaluated LLM responses and solved DSA/ML tasks under tight deadlines.
+
+`RLHF` `LLM Evaluation` `Gemini` `DSA`
+
+</details>
 
 <div align="center">
   <img width="100%" src="./assets/divider.svg" alt="divider"/>
@@ -47,53 +129,59 @@
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
-## 🏆 Featured Projects
+## ❯ ls projects/
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔫 **Real-Time ATM Weapon Detection**
-**Final Year Project — AI-Powered Security**
+### 🧠 **AI Codebase Document Generator**
+**Personal Project — Autonomous Docgen**
 
-<img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge" alt="Accuracy"/>
+- **Python + LangGraph + Groq (Llama 3)** tool that **autonomously traverses repositories** and generates structured Markdown docs
+- **AST-based parser**, dependency-graph mapping, and **token-budget management**
+- Docker-packaged for reproducible runs
 
-- Built **real-time CCTV weapon detection** using **YOLOv8**
-- **Full-stack application**: React.js + Express.js + MongoDB
-- Implemented **live video streaming** and **instant alerts**
-- **Impact**: Enhancing public safety at ATM locations
-
-`YOLOv8` `React.js` `Express.js` `MongoDB` `OpenCV` `WebSocket`
+`Python` `LangGraph` `Groq` `Llama 3` `AST` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💳 **IEEE-CIS Fraud Detection**
-**Production-Grade ML System**
+**Academic — Financial ML**
 
 <img src="https://img.shields.io/badge/ROC--AUC-98%25-success?style=for-the-badge" alt="ROC-AUC"/>
 
-- **Data cleaning** and **feature engineering** for financial data
-- Trained **LightGBM model** with near-perfect accuracy
-- **Cross-validation** and hyperparameter tuning
-- **Impact**: Detecting fraudulent transactions at scale
+- **LightGBM** model on financial fraud data with **98% ROC-AUC**
+- **Class-imbalance handling**, cross-validation & hyperparameter tuning
 
-`Python` `LightGBM` `Scikit-learn` `Pandas` `SMOTE`
+`Python` `LightGBM` `scikit-learn` `Pandas`
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### 📊 **YouTube Audience Sentiment Analysis**
-**Real-Time NLP Analytics Tool**
+### 🏥 **RAG Medical Chatbot**
+**LangChain Agents + Validation**
 
-- Built pipeline to **fetch and preprocess live YouTube comments** using YouTube Data API
-- Designed **NLP sentiment classifier** for real-time audience reactions
-- Integrated into **React.js interface** with sentiment visualizations
-- **Impact**: Real-time audience insights for content creators
+- **Retrieval-Augmented Generation** medical chatbot with **LangChain agents**
+- Built a **validation agent** benchmarking **DeepSeek R1 vs OpenAI Omni** responses
 
-`Python` `NLP` `NLTK` `React.js` `YouTube API` `Matplotlib`
+`LangChain` `RAG` `DeepSeek R1` `OpenAI` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔫 **Real-Time ATM Weapon Detection**
+**Final Year Project — YOLOv8**
+
+<img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge" alt="Accuracy"/>
+
+- Real-time **CCTV gun/knife detection** using **YOLOv8**
+- Full-stack **React.js + Express.js + MongoDB** app with live video streaming & real-time alerts
+
+`YOLOv8` `React.js` `Express.js` `MongoDB` `OpenCV`
 
 </td>
 </tr>
@@ -105,48 +193,93 @@
 
 <!-- ═══════════════════ TECHNICAL ARSENAL ═══════════════════ -->
 
-## 🛠️ Technical Arsenal
+## ❯ neofetch
 
 <div align="center">
+  <img src="./assets/neofetch.svg" alt="Neofetch — Skill Terminal" width="100%"/>
+</div>
 
-### 💻 **Core Technologies**
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<details>
+<summary><b>📦 Full tech stack</b> — click to expand the complete arsenal</summary>
+<br>
 
-### 🤖 **AI/ML Ecosystem**
+<p align="center">
+
+#### 🤖 GenAI & LLM
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-**Specialized**: LangChain • LangGraph • RAG Systems • YOLO (v8) • Groq API • OpenAI • Flowise • Lovable
+**Specialized**: LangChain • LangGraph • RAG • LLM Agents • Function/Tool Calling • Prompt Engineering • Llama 3 • LLM Fine-tuning • RLHF • LLM Gateways • GuardRails • RAGAS
 
-### 🌐 **Full-Stack Development**
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="center">
+
+#### 🎙️ Voice / Multimodal AI
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+**STT**: Deepgram • Whisper • AssemblyAI &nbsp;|&nbsp; **TTS**: ElevenLabs • Kokoro &nbsp;|&nbsp; **VAD**: Silero &nbsp;|&nbsp; **Telephony**: Twilio • Bland AI &nbsp;|&nbsp; Real-time audio packet handling
+
+</p>
+
+<p align="center">
+
+#### 📊 ML & Data Science
+
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Models**: XGBoost • CatBoost • Random Forest • Keras • YOLOv8 &nbsp;|&nbsp; **Causal Inference**: CausalImpact • PyMC • GeoLift • BSTS
+
+</p>
+
+<p align="center">
+
+#### ⚙️ Backend & Deployment
+
+![Python](https://img.shields.io/badge/Python-3776Ab?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Services**: Lambda • S3 • Redshift • BigQuery • Airflow
+**REST APIs** • Webhooks • WebSockets • CRUD/Authorization endpoints • CI/CD • Deployment
 
-### 🗄️ **Databases**
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+
+#### 🔗 Workflow & Integration
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+**Make.com** • n8n • Zapier • Fillout • apitemplate.io • APIs & middleware • Multi-agent workflow orchestration
+
+</p>
+
+<p align="center">
+
+#### 🗄️ Data & Cloud / LLMOps
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
+**DBs**: PostgreSQL • MySQL • MongoDB &nbsp;|&nbsp; **Cloud**: Digital Ocean • Vercel &nbsp;|&nbsp; **LLMOps**: MLflow • PostHog • Prompt Versioning
+
+</p>
+
+</details>
 
 <div align="center">
   <img width="100%" src="./assets/divider.svg" alt="divider"/>
@@ -154,7 +287,7 @@
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
-## 📈 GitHub Analytics
+## ❯ git stats
 
 <!-- ═══════════════ 🔥 STREAK STATS ═══════════════════════ -->
 
@@ -176,7 +309,7 @@
 
 <!-- ═══════════════ 🎮 CONTRIBUTION SHOWCASE ══════════════ -->
 
-## 🎮 Contribution Showcase
+## ❯ git log --contributions
 
 <div align="center">
   <picture>
@@ -190,17 +323,17 @@
   <img width="100%" src="./assets/divider.svg" alt="divider"/>
 </div>
 
-<!-- ═══════════════ CERTIFICATIONS ══════════════════════════ -->
+<!-- ═══════════════ EDUCATION & CERTIFICATIONS ═════════════ -->
 
-## 🎓 Certifications & Learning
+## ❯ cat education.json
 
 <div align="center">
 
-| 📜 | Certification | Details |
+| 📜 | Detail | Period |
 |---|---|---|
-| 📊 | **Data Science Bootcamp** | FAST NUCES Karachi (Jun–Sep 2023) |
-| 🧠 | **Continuous Learning** | Advanced Deep Learning, LangGraph, RAG Systems, Growth Analytics |
-| 🚀 | **Always Exploring** | Latest AI/ML trends and cutting-edge technologies |
+| 🎓 | **B.S. Computer Science** — IBA Sukkur University | 2021 – 2025 |
+| 🧠 | **Full Stack Generative and Agentic AI** — Udemy | Nov 2025 – Jan 2026 |
+| 📊 | **Data Science Bootcamp** — FAST NUCES | Jun 2023 – Sep 2023 |
 
 </div>
 
@@ -210,16 +343,16 @@
 
 <!-- ═══════════════ CONNECT ═════════════════════════════════ -->
 
-## 🌐 Let's Connect!
+## ❯ ./connect.sh
 
 <div align="center">
   
 ### 💼 Professional Network
 
-<a href="https://www.linkedin.com/in/muhammad-hamza-data-scientist/">
+<a href="https://www.linkedin.com/in/muhammad-hamza/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:m.hamza.aieng@gmail.com">
+<a href="mailto:hhamza2937@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/hamza-prof">
@@ -246,13 +379,13 @@
 
 <!-- ═══════════════ PROFILE STATS ═══════════════════════════ -->
 
-## 📊 Profile Stats
+## ❯ top — profile stats
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza-prof&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/hamza-prof?label=Followers&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Available%20for-Freelance-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-AI_Engineer-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Available%20for-GenAI_Freelance-orange?style=for-the-badge"/>
 </div>
 
 <br>
@@ -264,6 +397,6 @@
 </div>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/hamza-prof">hamza-prof</a> — Passionate about AI, ML, and solving real-world problems</sub>
+  <sub>⭐️ From <a href="https://github.com/hamza-prof">hamza-prof</a> — Building production GenAI, voice & knowledge-retrieval platforms</sub>
 </div>
 </div>

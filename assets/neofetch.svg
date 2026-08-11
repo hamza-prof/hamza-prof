@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="620" viewBox="0 0 850 620">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1b26"/>
+      <stop offset="100%" style="stop-color:#13141a"/>
+    </linearGradient>
+    <radialGradient id="chipGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:0.35"/>
+      <stop offset="100%" style="stop-color:#7aa2f7;stop-opacity:0"/>
+    </radialGradient>
+    <style>
+      .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Consolas', monospace; }
+      .title-text { font-size: 13px; fill: #6b7280; }
+      .head { font-size: 17px; fill: #7aa2f7; font-weight: bold; }
+      .sep { font-size: 14px; fill: #414868; }
+      .lbl { font-size: 14px; fill: #7aa2f7; }
+      .val { font-size: 14px; fill: #e5e7eb; }
+      .sec { font-size: 14px; fill: #bb9af7; font-weight: bold; }
+      .pct { font-size: 12px; fill: #9ca3af; }
+      .tools { font-size: 13px; fill: #c0caf5; }
+      .glyph { font-size: 52px; fill: #9ece6a; font-weight: bold; }
+      .corelbl { font-size: 10px; fill: #7aa2f7; letter-spacing: 3px; }
+      .prompt { font-size: 15px; fill: #9ece6a; font-weight: bold; }
+      .cursor { fill: #a78bfa; animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .chip-stroke { animation: chipPulse 3s ease-in-out infinite; }
+      @keyframes chipPulse { 0%,100% { opacity: 0.55; } 50% { opacity: 1; } }
+      .status-dot { animation: dotPulse 1.6s ease-in-out infinite; }
+      @keyframes dotPulse { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+      .scan { animation: scan 4s linear infinite; }
+      @keyframes scan { 0% { transform: translateY(0); opacity: 0; } 10% { opacity: 0.5; } 90% { opacity: 0.5; } 100% { transform: translateY(104px); opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- Window shadow -->
+  <rect x="10" y="10" width="830" height="600" rx="12" fill="#000000" opacity="0.3"/>
+  <!-- Terminal window -->
+  <rect x="0" y="0" width="830" height="600" rx="12" fill="url(#termBg)"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="830" height="35" rx="12" fill="#1f2335"/>
+  <circle cx="25" cy="17" r="6" fill="#f7768e"/>
+  <circle cx="45" cy="17" r="6" fill="#e0af68"/>
+  <circle cx="65" cy="17" r="6" fill="#9ece6a"/>
+  <text x="415" y="22" text-anchor="middle" class="mono title-text">hamza@dev — neofetch</text>
+
+  <!-- Content -->
+  <g transform="translate(30, 55)">
+
+    <!-- ════ LEFT: AI CORE LOGO ════ -->
+    <g transform="translate(10, 10)">
+      <rect x="0" y="0" width="200" height="210" rx="18" fill="url(#chipGlow)"/>
+      <rect class="chip-stroke" x="6" y="6" width="188" height="198" rx="16" fill="#16161e" stroke="#7aa2f7" stroke-width="2"/>
+      <!-- pins -->
+      <g fill="#414868">
+        <rect x="-10" y="40" width="10" height="4" rx="2"/><rect x="-10" y="74" width="10" height="4" rx="2"/>
+        <rect x="-10" y="108" width="10" height="4" rx="2"/><rect x="-10" y="142" width="10" height="4" rx="2"/>
+        <rect x="200" y="40" width="10" height="4" rx="2"/><rect x="200" y="74" width="10" height="4" rx="2"/>
+        <rect x="200" y="108" width="10" height="4" rx="2"/><rect x="200" y="142" width="10" height="4" rx="2"/>
+        <rect x="40" y="-10" width="4" height="10" rx="2"/><rect x="96" y="-10" width="4" height="10" rx="2"/>
+        <rect x="152" y="-10" width="4" height="10" rx="2"/>
+        <rect x="40" y="200" width="4" height="10" rx="2"/><rect x="96" y="200" width="4" height="10" rx="2"/>
+        <rect x="152" y="200" width="4" height="10" rx="2"/>
+      </g>
+      <!-- corner nodes -->
+      <g fill="#bb9af7">
+        <circle cx="14" cy="14" r="4"/><circle cx="186" cy="14" r="4"/>
+        <circle cx="14" cy="196" r="4"/><circle cx="186" cy="196" r="4"/>
+      </g>
+      <!-- inner panel -->
+      <rect x="30" y="34" width="140" height="110" rx="12" fill="#1a1b26" stroke="#bb9af7" stroke-width="1" opacity="0.6"/>
+      <!-- scan line -->
+      <rect class="scan" x="30" y="34" width="140" height="2" fill="#7dcfff" opacity="0.5"/>
+      <!-- glyph -->
+      <text class="mono glyph" x="100" y="110" text-anchor="middle">❯_</text>
+      <!-- blinking caret after glyph -->
+      <rect class="cursor" x="124" y="78" width="9" height="34" rx="2"/>
+      <!-- label -->
+      <text class="mono corelbl" x="100" y="168" text-anchor="middle">AI CORE</text>
+      <!-- status row -->
+      <circle class="status-dot" cx="58" cy="188" r="5" fill="#9ece6a"/>
+      <text class="mono" x="70" y="192" font-size="11" fill="#9ece6a">online</text>
+      <text class="mono" x="118" y="192" font-size="11" fill="#9ca3af">v2026.2</text>
+    </g>
+
+    <!-- ════ RIGHT: SYSTEM INFO ════ -->
+    <g transform="translate(250, 6)">
+      <text class="mono head" x="0" y="14">hamza@dev</text>
+      <text class="mono sep" x="0" y="34">───────────────────────────────</text>
+
+      <text class="mono lbl" x="0" y="62">OS</text>      <text class="mono val" x="80" y="62">: GitHub Profile</text>
+      <text class="mono lbl" x="0" y="86">Host</text>    <text class="mono val" x="80" y="86">: AI/ML Engineer</text>
+      <text class="mono lbl" x="0" y="110">Kernel</text>  <text class="mono val" x="80" y="110">: GenAI · LLM · Voice AI · RAG</text>
+      <text class="mono lbl" x="0" y="134">Shell</text>   <text class="mono val" x="80" y="134">: LangGraph + LangChain</text>
+      <text class="mono lbl" x="0" y="158">Editor</text>  <text class="mono val" x="80" y="158">: VS Code · Docker · n8n</text>
+      <text class="mono lbl" x="0" y="182">Uptime</text>  <text class="mono val" x="80" y="182">: 4+ yrs shipping AI</text>
+
+      <!-- Languages -->
+      <text class="mono sec" x="0" y="214">Languages</text>
+      <!-- Python -->
+      <text class="mono val" x="0" y="240">Python</text>
+      <rect x="92" y="231" width="260" height="10" rx="3" fill="#2a2b3d"/>
+      <rect x="92" y="231" width="0" height="10" rx="3" fill="#7aa2f7">
+        <animate attributeName="width" from="0" to="234" dur="1.3s" begin="0.3s" fill="freeze"/>
+      </rect>
+      <text class="mono pct" x="360" y="240">90%</text>
+      <!-- SQL -->
+      <text class="mono val" x="0" y="266">SQL</text>
+      <rect x="92" y="257" width="260" height="10" rx="3" fill="#2a2b3d"/>
+      <rect x="92" y="257" width="0" height="10" rx="3" fill="#7dcfff">
+        <animate attributeName="width" from="0" to="182" dur="1.3s" begin="0.45s" fill="freeze"/>
+      </rect>
+      <text class="mono pct" x="360" y="266">70%</text>
+      <!-- JS / TS -->
+      <text class="mono val" x="0" y="292">JS / TS</text>
+      <rect x="92" y="283" width="260" height="10" rx="3" fill="#2a2b3d"/>
+      <rect x="92" y="283" width="0" height="10" rx="3" fill="#e0af68">
+        <animate attributeName="width" from="0" to="143" dur="1.3s" begin="0.6s" fill="freeze"/>
+      </rect>
+      <text class="mono pct" x="360" y="292">55%</text>
+
+      <!-- GenAI Stack -->
+      <text class="mono sec" x="0" y="324">GenAI Stack</text>
+      <!-- RAG -->
+      <text class="mono val" x="0" y="350">RAG &amp; Retrieval</text>
+      <rect x="142" y="341" width="210" height="10" rx="3" fill="#2a2b3d"/>
+      <rect x="142" y="341" width="0" height="10" rx="3" fill="#bb9af7">
+        <animate attributeName="width" from="0" to="193" dur="1.3s" begin="0.75s" fill="freeze"/>
+      </rect>
+      <text class="mono pct" x="360" y="350">92%</text>
+      <!-- Voice AI -->
+      <text class="mono val" x="0" y="376">Voice AI / RT</text>
+      <rect x="142" y="367" width="210" height="10" rx="3" fill="#2a2b3d"/>
+      <rect x="142" y="367" width="0" height="10" rx="3" fill="#f7768e">
+        <animate attributeName="width" from="0" to="185" dur="1.3s" begin="0.9s" fill="freeze"/>
+      </rect>
+      <text class="mono pct" x="360" y="376">88%</text>
+      <!-- LLMOps -->
+      <text class="mono val" x="0" y="402">LLMOps</text>
+      <rect x="142" y="393" width="210" height="10" rx="3" fill="#2a2b3d"/>
+      <rect x="142" y="393" width="0" height="10" rx="3" fill="#9ece6a">
+        <animate attributeName="width" from="0" to="168" dur="1.3s" begin="1.05s" fill="freeze"/>
+      </rect>
+      <text class="mono pct" x="360" y="402">80%</text>
+
+      <!-- Tools -->
+      <text class="mono sec" x="0" y="434">Tools</text>
+      <text class="mono tools" x="0" y="456">ElevenLabs · Twilio · Groq · Ollama · Make.com</text>
+      <text class="mono tools" x="0" y="476">Whisper · AssemblyAI · Silero · Kokoro · Bland AI</text>
+
+      <!-- prompt -->
+      <text class="mono prompt" x="0" y="516">❯</text>
+      <rect class="cursor" x="18" y="503" width="9" height="16" rx="2"/>
+    </g>
+  </g>
+</svg>
