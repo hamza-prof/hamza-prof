@@ -53,16 +53,6 @@
       </rect>
     </clipPath>
 
-    <!-- Erase clip: the band BELOW the ascending scan line (bottom-anchored).
-         Covers the region the portrait gets erased from, so text can be revealed
-         there instead of showing an empty panel. Active only during ascent (0.58->1). -->
-    <clipPath id="eraseClip">
-      <rect x="24" y="224" width="220" height="0">
-        <animate attributeName="y" values="224;224;224;54" keyTimes="0;0.42;0.58;1" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="height" values="0;0;0;170" keyTimes="0;0.42;0.58;1" dur="6s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-
     <!-- Vertical fade for the scanner line's trail (bright at the line, fading down) -->
     <linearGradient id="scanTrail" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#7dcfff" stop-opacity="0.55"/>
@@ -1713,9 +1703,11 @@
     <!-- END_AVATAR -->
     </g>
 
-    <!-- "let's connect" block: revealed in the erased band as the scan line
-         ascends, instead of leaving an empty panel. -->
-    <g clip-path="url(#eraseClip)" font-family="'SF Mono','JetBrains Mono','Consolas',monospace" text-anchor="middle">
+    <!-- "let's connect" block: fades in during the scan line's ascent, after the
+         portrait has erased past it, so the panel isn't left empty. Opacity-only
+         (clipPath child animation is unreliable in GitHub's <img> rendering). -->
+    <g font-family="'SF Mono','JetBrains Mono','Consolas',monospace" text-anchor="middle" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.82;0.93;0.98;1" dur="6s" repeatCount="indefinite"/>
       <text x="134" y="128" font-size="22" font-weight="700" fill="url(#neonGradient)" filter="url(#strongGlow)">let&#8217;s connect</text>
       <text x="134" y="156" font-size="12" fill="#9ece6a">&#8594; open to collaborate</text>
       <text x="134" y="178" font-size="11" fill="#7aa2f7">@hamza-prof</text>
