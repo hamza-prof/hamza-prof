@@ -4,14 +4,6 @@
   <img width="100%" src="./assets/header-terminal.svg" alt="Terminal Header"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%9A%80+Building+Production+GenAI+%26+Voice+Agents;%F0%9F%A4%96+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent;%F0%9F%8E%99%EF%B8%8F+Real-time+Voice+AI+%28ElevenLabs+%2B+Twilio%29;%F0%9F%A7%A0+LLMOps+%E2%80%A2+Prompt+Versioning+%E2%80%A2+CI%2FCD;%F0%9F%94%A7+ETL+Pipelines+%E2%80%A2+Workflow+Orchestration;%F0%9F%92%A1+Shipping+Enterprise+GenAI+Platforms&font=Dancing%20Script&center=true&width=900&height=80&duration=3000&pause=1000&size=26&color=58a6ff" alt="Typing Animation">
-</div>
-
-<div style="font-family: 'Dancing Script', cursive;">
-
-<br>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -293,7 +285,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-prof&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=F85D7F&currStreakNum=F85D7F&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=hamza-prof&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=F85D7F&currStreakNum=F85D7F&sideNums=F8D866&currStreakLabel=F85D7F&sideLabels=764ba2&dates=c9d1d9" alt="GitHub Streak Stats"/>
   </a>
 </div>
 
